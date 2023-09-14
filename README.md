@@ -1,2 +1,2 @@
-# ２０２３最初のrepository
+# 2023 最初のrepository
 first repository
